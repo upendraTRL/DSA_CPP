@@ -1,5 +1,6 @@
 //T.C - O(n) + O(n logn) for sorting
 //S.C - O(1) or O(n) for considering the sorting
+//Variety 1 - Yes/No is the output
 
 string read(int n, vector<int> book, int target)
 {
