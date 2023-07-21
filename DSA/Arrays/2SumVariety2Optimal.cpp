@@ -1,6 +1,7 @@
 //TC - O(n logn) for ordered map
 //     O(n^2) - W.C, O(n) - B.C/A.C
 //SC - O(n) for map
+//Variety2 - Indexs is the output
 
 class Solution {
 public:
