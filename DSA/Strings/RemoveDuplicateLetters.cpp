@@ -1,3 +1,7 @@
+//LC Medium
+//TC - O(n)
+//SC - O(n)
+
 class Solution {
 public:
     string removeDuplicateLetters(string s) {
