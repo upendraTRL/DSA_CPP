@@ -1,4 +1,4 @@
-//LC 880, Medium.
+//LC -Medium(880)
 //TC - O(n)
 //SC - O(1)
 
